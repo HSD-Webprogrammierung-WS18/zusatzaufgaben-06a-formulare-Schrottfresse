@@ -30,3 +30,5 @@ Verwenden Sie dabei wo möglich HTML5 Tags. Speichern Sie die notwendigen Icons 
 
 ## 3 Projekt „Eigene Website“
 ### a) Ergänzen Sie Ihre Website um Hyperlinks mit relativen Adressen zwischen den Seiten. Setzen Sie bei langen Seiten, die über den sichtbaren Bereich des Browsers hinausgehen einen Anker am Anfang der Seite und setzen Sie am Ende der Seite einen Link dorthin.
+
+bla
